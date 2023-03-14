@@ -33,7 +33,7 @@ const LoginPage: NextPageWithLayout = () => {
         width="350px"
         maxW="full"
         as="a"
-        href={`/api/auth/login?locale=${locale}`}
+        href={`https://dashboard.icl-bot.eu/dashboard/1012351332851650563`}
       >
         {t.login_bn}
       </Button>
